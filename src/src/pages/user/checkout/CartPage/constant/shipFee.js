@@ -1,0 +1,1 @@
+export const SHIP_FEE = 35000;
